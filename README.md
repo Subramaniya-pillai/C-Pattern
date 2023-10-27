@@ -56,7 +56,7 @@ namespace ex3
 ```
 ## Output:
 
-![Alt text](o1.jpg)
+![Alt text](o1.png)
 
 ## Result:
 Thus, C# program for a pascal's triangle is executed successfully.
